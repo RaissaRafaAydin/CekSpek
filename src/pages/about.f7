@@ -1,0 +1,103 @@
+<template>
+<div class="page" data-name="about">
+  <div class="navbar">
+    <div class="navbar-bg"></div>
+    <div class="navbar-inner sliding">
+      <div class="left">
+        <a href="#" class="link back">
+          <i class="icon icon-back"></i>
+          <span class="if-not-md">Back</span>
+        </a>
+      </div>
+      <div class="title">About</div>
+    </div>
+  </div>
+  <div class="page-content" >
+    <div class="block-title">Iphone 15 Pro Max</div>
+    <div class="block">
+      <p></p>
+      <div class="block-title">Network</div>
+      <p>Technology :	
+        GSM / CDMA / HSPA / EVDO / LTE / 5G</p>
+      <div class="block-title">Launch</div>
+        <p>Announced :	2023, September 12
+          Status 	Available : Released 2023, September 22</p>
+        <div class="block-title">Body</div>
+        <p>Dimensions :	159.9 x 76.7 x 8.3 mm (6.30 x 3.02 x 0.33 in)</p>
+          <p>Weight :	221 g (7.80 oz)</p>
+          <p>Build :	Glass front (Corning-made glass), glass back (Corning-made glass), titanium frame (grade 5)</p>
+          <p>SIM :	Nano-SIM and eSIM - International
+                    Dual eSIM with multiple numbers - USA
+                    Dual SIM (Nano-SIM, dual stand-by) - China
+                    IP68 dust/water resistant (up to 6m for 30 min)
+                    Apple Pay (Visa, MasterCard, AMEX certified)</p>
+        <div class="block-title">Display</div>            
+        <p>Type :	LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 2000 nits (HBM)</p>
+          <p>Size :	6.7 inches, 110.2 cm2 (~89.8% screen-to-body ratio)</p>
+          <p>Resolution :	1290 x 2796 pixels, 19.5:9 ratio (~460 ppi density)</p>
+          <p>Protection :	Ceramic Shield glass
+             Always-On display</p>
+        <div class="block-title">Platform</div>
+        <p>OS :	iOS 17, upgradable to iOS 17.1.1</p>
+        <p>Chipset :	Apple A17 Pro (3 nm)</p>
+        <p>CPU :	Hexa-core (2x3.78 GHz + 4x2.11 GHz)</p>
+        <p>GPU :	Apple GPU (6-core graphics)</p>
+        <div class="block-title">Memory</div>
+        <p>Card slot :	No</p>
+        <p>Internal :	256GB 8GB RAM, 512GB 8GB RAM, 1TB 8GB RAM
+          NVMe</p>
+        <div class="block-title">Main Camera</div>
+        <p>Triple :	48 MP, f/1.8, 24mm (wide), 1/1.28", 1.22µm, dual pixel PDAF, sensor-shift OIS
+          12 MP, f/2.8, 120mm (periscope telephoto), 1/3.06", 1.12µm, dual pixel PDAF, 3D sensor‑shift OIS, 5x optical zoom
+          12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55", 1.4µm, dual pixel PDAF
+          TOF 3D LiDAR scanner (depth)</p>
+        <p>Features :	Dual-LED dual-tone flash, HDR (photo/panorama)</p>
+        <p>Video :	4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 60fps), ProRes, Cinematic mode (4K@24/30fps), 3D (spatial) video, stereo sound rec.</p>
+        <div class="block-title">Selfie Camera</div>
+        <p>Single :	12 MP, f/1.9, 23mm (wide), 1/3.6", PDAF, OIS
+          SL 3D, (depth/biometrics sensor)</p>
+        <p>Features :	HDR, Cinematic mode (4K@24/30fps)</p>
+        <p>Video :	4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS</p>
+        <div class="block-title">Sound</div>
+        <p>Loudspeaker :	Yes, with stereo speakers</p>
+        <p>3.5mm jack :	No</p>
+        <div class="block-title">Comms</div>
+        <p>WLAN :	Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, hotspot</p>
+        <p>Bluetooth :	5.3, A2DP, LE</p>
+        <p>Positioning :	GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC</p>
+        <p>NFC :	Yes</p>
+        <p>Radio :	No</p>
+        <p>USB :	USB Type-C 3.2 Gen 2, DisplayPort</p>
+        <div class="block-title">Features</div>
+        <p>Sensors :	Face ID, accelerometer, gyro, proximity, compass, barometer
+                      Ultra Wideband 2 (UWB) support
+                      Emergency SOS via satellite (SMS sending/receiving)</p>
+        <div class="block-title">Battery</div>
+        <p>Type :	Li-Ion 4441 mAh, non-removable</p>
+        <p>Charging :	Wired, PD2.0, 50% in 30 min (advertised)
+                      15W wireless (MagSafe)
+                      7.5W wireless (Qi)
+                      4.5W reverse wired</p>
+        <div class="block-title">Misc</div>
+        <p>Colors :	Black Titanium, White Titanium, Blue Titanium, Natural Titanium</p>
+        <p>Models :	A2849, A3105, A3106, A3108, iPhone16,2</p>
+        <p>SAR :	1.07 W/kg (head)     1.11 W/kg (body) </p>
+        <p>SAR EU :	0.98 W/kg (head)     0.98 W/kg (body)</p>
+        <p>Price :	$ 1,199.99 / € 1,429.00 / £ 1,199.00 / ₹ 159,900 / Rp 33.999.000</p>
+        <div class="block-title">Tests</div>
+        <p>Performance :	AnTuTu: 1487203 (v10)
+                          GeekBench: 7237 (v6.0)</p>
+        <p>Display :	Contrast ratio: Infinite (nominal)</p>
+        <p>Camera :	Photo / Video</p>
+        <p>Loudspeaker :	-24.5 LUFS (Very good)</p>  
+        <p>Battery (new) :	Active use score 16:01h</p>
+        <p>Battery (old) :	Endurance rating 118h</p>
+    </div>
+  </div>
+</div>
+</template>
+<script>
+export default () => {
+  return $render;
+};
+</script>

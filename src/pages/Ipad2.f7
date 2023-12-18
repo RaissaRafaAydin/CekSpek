@@ -1,0 +1,234 @@
+<template>
+  <div class="page">
+    <div class="navbar">
+      <div class="navbar-bg"></div>
+      <div class="navbar-inner sliding">
+        <div class="left">
+          <a href="#" class="link icon-only panel-open" data-panel="left">
+            <i class="icon f7-icons if-not-md">menu</i>
+            <i class="icon material-icons if-md">menu</i>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="page-content">
+      <div class="block">
+        <p><h1>Ipad</h1></p>
+      </div>
+      <div class="demo-expandable-cards">      
+        <div class="card card-expandable">
+          <div class="card-content">
+            <div style="background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht6Ix04ORfmADDXjfUtwQVNyUo8qSvC26V0J98YBw_2Fz27osQs1dJBRcR3PKxha2VP8PcMCPwTFKHVoUZLvd93pbQx4nGWpp94fc0TnTUAL8XP3-4gNKRV4hh2DFpdJEFmY1viakc7WXGTBlB5sxFAoRz7cMsyuy6IMp6N7nUZw1pu4t_mc3VFtxrkg8/s500/Ipad%20air%20gen%205.png) no-repeat center bottom; background-size: cover; height: 240px">
+            </div>
+            <a class="link card-close card-opened-fade-in color-white" style="position: absolute; right: 15px; top: 15px">
+              <i class="icon f7-icons">xmark_circle_fill</i>
+            </a>
+            <div class="card-header display-block" style="height: 60px">
+              Ipad air gen 5
+            </div>
+            <div class="card-content-padding">
+              <div class="block-title">Network</div>
+        <p>Technology :	GSM / HSPA / LTE / 5G</p>
+        <div class="block-title">Launch</div>
+        <p>Announced :	2022, March 08</p>
+        <p>Status :	Available. Released 2022, March 18</p>
+        <div class="block-title">Body</div>
+        <p>Dimensions :	247.6 x 178.5 x 6.1 mm (9.75 x 7.03 x 0.24 in)</p>
+        <p>Weight :	461 g (Wi-Fi) / 462 g (5G) (1.02 lb)</p>
+        <p>Build :	Glass front, aluminum back, aluminum frame</p>
+        <p>SIM :	Nano-SIM and eSIM Stylus support (2nd gen)</p>
+        <div class="block-title">Display</div>
+        <p>Type :	Liquid Retina IPS LCD, 500 nits (typ)</p>
+        <p>Size :	10.9 inches, 359.2 cm2 (~81.3% screen-to-body ratio)</p>
+        <p>Resolution :	1640 x 2360 pixels (~264 ppi density)</p>
+        <p>Protection :	Scratch-resistant glass, oleophobic coating</p>
+        <div class="block-title">Platform</div>
+        <p>OS :	iPadOS 15.4, upgradable to iPadOS 17.1.1</p>
+        <p>Chipset :	Apple M1</p>
+        <p>CPU :	Octa-core (4x3.2 GHz & 4xX.X GHz)</p>
+        <p>GPU :	Apple GPU (8-core graphics)</p>
+        <div class="block-title">Memory</div>
+        <p>Card slot :	No</p>
+        <p>Internal :	64GB, 256GB 8GB RAM</p>
+        <div class="block-title">Main Camera</div>
+        <p>Single :	12 MP, f/1.8, (wide), 1/3", 1.22µm, dual pixel PDAF</p>
+        <p>Features :	HDR</p>
+        <p>Video :	4K@24/25/30/60fps, 1080p@25/30/60/120/240fps; gyro-EIS</p>
+        <div class="block-title">Selfie Camera</div>
+        <p>Single :	12 MP, f/2.4, 122˚ (ultrawide)</p>
+        <p>Features :	HDR</p>
+        <p>Video :	1080p@30/60fps</p>
+        <div class="block-title">Sound</div>
+        <p>Loudspeaker :	Yes, with stereo speakers</p>
+        <p>3.5mm jack :	No</p>
+        <div class="block-title">Comms</div>
+        <p>WLAN :	Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot</p>
+        <p>Bluetooth :	5.0, A2DP, EDR</p>
+        <p>Positioning :	GPS, GLONASS (5G model only)</p>
+        <p>NFC :	No</p>
+        <p>Radio : No</p>
+        <p>USB :	USB Type-C 3.1 Gen2, DisplayPort, magnetic connector</p>
+        <div class="block-title">Features</div>
+        <p>Sensors :	Fingerprint (top-mounted), accelerometer, gyro, compass, barometer</p>
+        <div class="block-title">Battery</div>
+        <p>Type :	Li-Ion (28.6 Wh), non-removable</p>
+        <div class="block-title">Misc</div>
+        <p>Colors :	Space Gray, Starlight, Pink, Purple, Blue</p>
+        <p>Models :	A2589, A2591, iPad13,16</p>
+        <p>Price :	About 550 EUR</p>
+        <video src="assets/ipadgen5.mp4" style="width: 360px" controls></video>
+              <p>
+                <a class="button button-fill button-round button-large card-close">Close</a>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="card card-expandable">
+          <div class="card-content">
+            <div style="background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxjNYnSphfEjRVBSpvMScHgDxsDE-90a0de3-BlWPVeT_26yN3z3gTM2am8DZXFiNjccDl8tnyh0z5m9FvHoH2eANH6khRT9lk2IbdUmEVINX37C6jl7Zv1vBdRrrshl0nox3wi7-Y-4-sblBL10uK-Wt6C6lJpTQbF303s8hJ45Xf9p2LyXP9Gc3F_lo/s500/Ipad%2011.png) no-repeat center bottom; background-size: cover; height: 240px">
+            </div>
+            <a class="link card-close card-opened-fade-in color-white" style="position: absolute; right: 15px; top: 15px">
+              <i class="icon f7-icons">xmark_circle_fill</i>
+            </a>
+            <div class="card-header display-block" style="height: 60px">
+              Ipad 11
+            </div>
+            <div class="card-content-padding">
+              <div class="block-title">Network</div>
+            <p>Technology :	GSM / HSPA / LTE / 5G</p>
+            <div class="block-title">Launch</div>
+            <p>Announced :	2022, October 18</p>
+            <p>Status :	Available. Released 2022, October 26</p>
+            <div class="block-title">Body</div>
+            <p>Dimensions :	247.6 x 178.5 x 5.9 mm (9.75 x 7.03 x 0.23 in)</p>
+            <p>Weight :	466 g (Wi-Fi), 470 g (5G) (1.03 lb)</p>
+            <p>Build :	Glass front, aluminum back, aluminum frame</p>
+            <p>SIM :	Nano-SIM and eSIM
+                      Stylus support (Bluetooth integration; magnetic)</p>
+            <div class="block-title">Display</div>
+            <p>Type :	Liquid Retina IPS LCD, 120Hz, HDR10, Dolby Vision, 600 nits (typ)</p>
+            <p>Size :	11.0 inches, 366.5 cm2 (~82.9% screen-to-body ratio)</p>
+            <p>Resolution :	1668 x 2388 pixels (~265 ppi density)</p>
+            <p>Protection :	Scratch-resistant glass, oleophobic coating</p>
+            <div class="block-title">Platform</div>
+            <p>OS :	iPadOS 16.1, upgradable to iPadOS 17.1.1</p>
+            <p>Chipset :	Apple M2</p>
+            <p>CPU :	Octa-core</p>
+            <p>GPU :	Apple GPU (10-core graphics)</p>
+            <div class="block-title">Memory</div>
+            <p>Card slot :	No</p>
+            <p>Internal :	128GB 8GB RAM, 256GB 8GB RAM, 512GB 8GB RAM, 1TB 16GB RAM, 2TB 16GB RAM</p>
+            <div class="block-title">Main Camera</div>
+            <p>Dual :	12 MP, f/1.8, (wide), 1/3", 1.22µm, dual pixel PDAF
+                      10 MP, f/2.4, 125˚ (ultrawide)
+                      TOF 3D LiDAR scanner (depth)</p>
+            <p>Features :	Quad-LED dual-tone flash, HDR</p>
+            <p>Video :	4K@24/25/30/60fps, 1080p@25/30/60/120/240fps; gyro-EIS, ProRes, Cinematic mode (4K, 1080p)</p>
+            <div class="block-title">Selfie Camera</div>
+            <p>Single :	12 MP, f/2.4, 122˚ (ultrawide)</p>
+            <p>Features :	Face detection, HDR, panorama</p>
+            <p>Video :	1080p@25/30/60fps, gyro-EIS, HDR</p>
+            <div class="block-title">Sound</div>
+            <p>Loudspeaker :	Yes, with stereo speakers (4 speakers)</p>
+            <p>3.5mm jack :	No</p>
+            <div class="block-title">Comms</div>
+            <p>WLAN :	Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, hotspot</p>
+            <p>Bluetooth :	5.3, A2DP, LE, EDR</p>
+            <p>Positioning :	GPS, GLONASS, GALILEO, QZSS (Wi‑Fi + Cellular model only)</p>
+            <p>NFC :	No</p>
+            <p>Radio :	No</p>
+            <p>USB :	USB Type-C 4 (Thunderbolt 4), DisplayPort, magnetic connector</p>
+            <div class="block-title">Features</div>
+            <p>Sensors :	Face ID, accelerometer, gyro, barometer</p>
+            <div class="block-title">Battery</div>
+            <p>Type :	Li-Po 7538 mAh (28.65 Wh), non-removable</p>
+            <div class="block-title">Misc</div>
+            <p>Colors :	Silver, Space Gray</p>
+            <p>Models :	A2435, A2761, A2762, A2759, iPad8,9, iPad8,10</p>
+            <p>Price :	About 1050 EUR</p>
+            <video src="assets/ipad11.mp4" style="width: 360px" controls></video>
+              <p>
+                <a class="button button-fill button-round button-large card-close">Close</a>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="card card-expandable">
+          <div class="card-content">
+            <div style="background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWbQrKS03YwC5qrcmQa4S8Dpg4yKnafD7hbTMekh_rXBFS7gphMS52ImDU9e-ibonL92PsUAk5Q5UtmvOf7kHx-rdmFINUDESI1hCyVVYWcHk10D3jFZgB2iDxrkAaMwWpLE3PMW2hfE3erd5YlTOnSnTJuwb0NoOTLI35hSnJc69fO-kq0DVd9DCFcCs/s500/Ipad%2012.png) no-repeat center bottom; background-size: cover; height: 240px">
+            </div>
+            <a class="link card-close card-opened-fade-in color-white" style="position: absolute; right: 15px; top: 15px">
+              <i class="icon f7-icons">xmark_circle_fill</i>
+            </a>
+            <div class="card-header display-block" style="height: 60px">
+              Ipad 12
+            </div>
+            <div class="card-content-padding">
+              <div class="block-title">Network</div>
+        <p>Technology :	GSM / HSPA / LTE / 5G</p>
+        <div class="block-title">Launch</div>
+        <p>Announced :	2022, October 18</p>
+        <p>Status :	Available. Released 2022, October 26</p>
+        <div class="block-title">Body</div>
+        <p>Dimensions :	280.6 x 214.9 x 6.4 mm (11.05 x 8.46 x 0.25 in)</p>
+        <p>Weight :	682 g (Wi-Fi), 685 g (5G) (1.50 lb)</p>
+        <p>Build :	Glass front, aluminum back, aluminum frame</p>
+        <p>SIM :	Nano-SIM and eSIM
+                	Stylus support (Bluetooth integration; magnetic)</p>
+        <div class="block-title">Display</div>
+        <p>Type :	Liquid Retina XDR mini-LED LCD, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 1600 nits (peak)</p>
+        <p>Size :	12.9 inches, 515.3 cm2 (~85.4% screen-to-body ratio)</p>
+        <p>Resolution :	2048 x 2732 pixels, 4:3 ratio (~265 ppi density)</p>
+        <p>Protection :	Scratch-resistant glass, oleophobic coating</p>
+        <div class="block-title">Platform</div>
+        <p>OS :	iPadOS 16.1, upgradable to iPadOS 17.1.1</p>
+        <p>Chipset :	Apple M2</p>
+        <p>CPU :	Octa-core</p>
+        <p>GPU :	Apple GPU (10-core graphics)</p>
+        <div class="block-title">Memory</div>
+        <p>Card slot :	No</p>
+        <p>Internal :	128GB 8GB RAM, 256GB 8GB RAM, 512GB 8GB RAM, 1TB 16GB RAM, 2TB 16GB RAM</p>
+        <div class="block-title">Main Camera</div>
+        <p>Dual :	12 MP, f/1.8, (wide), 1/3", 1.22µm, dual pixel PDAF
+                  10 MP, f/2.4, 125˚ (ultrawide)
+                  TOF 3D LiDAR scanner (depth)</p>
+        <p>Features :	Quad-LED dual-tone flash, HDR</p>
+        <p>Video :	4K@24/25/30/60fps, 1080p@25/30/60/120/240fps; gyro-EIS, ProRes, Cinematic mode (4K, 1080p)</p>
+        <div class="block-title">Selfie Camera</div>
+        <p>Single :	12 MP, f/2.4, 122˚ (ultrawide)</p>
+        <p>Features :	Face detection, HDR, panorama</p>
+        <p>Video :	1080p@25/30/60fps, gyro-EIS, HDR, Dolby Vision +</p>
+        <div class="block-title">Sound</div>
+        <p>Loudspeaker :	Yes, with stereo speakers (4 speakers)</p>
+        <p>3.5mm jack :	No</p>
+        <div class="block-title">Comms</div>
+        <p>WLAN :	Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, hotspot</p>
+        <p>Bluetooth :	5.3, A2DP, LE, EDR</p>
+        <p>Positioning 	GPS, GLONASS, GALILEO, QZSS (Wi‑Fi + Cellular model only)</p>
+        <p>NFC :	No</p>
+        <p>Radio :	No</p>
+        <p>USB :	USB Type-C 4 (Thunderbolt 4), DisplayPort, magnetic connector</p>
+        <div class="block-title">Features</div>
+        <p>Sensors :	Face ID, accelerometer, gyro, barometer</p>
+        <div class="block-title">Battery</div>
+        <p>Type :	Li-Po 10758 mAh (40.88 Wh), non-removable</p>
+        <div class="block-title">Misc</div>
+        <p>Colors :	Silver, Space Gray</p>
+        <p>Models :	A2764, A2437, A2766, A2436, iPad14,5, iPad14,6</p>
+        <p>Price :	About 1450 EUR</p>
+        <video src="assets/ipad12.mp4" style="width: 360px" controls></video>
+              <p>
+                <a class="button button-fill button-round button-large card-close">Close</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+    </template>
+    <script>
+    export default () => {
+      return $render;
+    };
+    </script>

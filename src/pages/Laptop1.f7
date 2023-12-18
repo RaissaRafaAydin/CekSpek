@@ -1,0 +1,228 @@
+<template>
+  <div class="page">
+    <div class="navbar">
+      <div class="navbar-bg"></div>
+      <div class="navbar-inner sliding">
+        <div class="left">
+          <a href="#" class="link icon-only panel-open" data-panel="left">
+            <i class="icon f7-icons if-not-md">menu</i>
+            <i class="icon material-icons if-md">menu</i>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="page-content">
+      <div class="block">
+        <p><h1>Macbook</h1></p>
+      </div>
+      <div class="demo-expandable-cards">      
+        <div class="card card-expandable">
+          <div class="card-content">
+            <div style="background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIUv8wUCF-Mh972mdvWvKx-hVZb629GDtjZmqjRwQCSlJPN3KSmM1Im8acythSUoJoXv6lNkDBdMxK4oSqADUxvDGPRI8NhOay52yXjFRBB3aQjNJmeh9peNeBFGaSeHL7WIG-qiB8JqU6Rali79-vq0IQKT_9BTstVXF0FGwagaUw1Q7vqX6tBKIPqUM/s500/Macbook%20air%202020.png) no-repeat center bottom; background-size: cover; height: 240px">
+            </div>
+            <a class="link card-close card-opened-fade-in color-white" style="position: absolute; right: 15px; top: 15px">
+              <i class="icon f7-icons">xmark_circle_fill</i>
+            </a>
+            <div class="card-header display-block" style="height: 60px">
+              Macbook air 2020
+            </div>
+            <div class="card-content-padding">
+              <div class="block-title">Network</div>
+            <p></p>
+            <div class="block-title">Launch</div>
+            <p></p>
+            <p></p>
+            <div class="block-title">Body</div>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <div class="block-title">Display</div>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <div class="block-title">Platform</div>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <div class="block-title">Memory</div>
+            <p></p>
+            <p></p>
+            <div class="block-title">Main Camera</div>
+            <p></p>
+            <p></p>
+            <p></p>
+            <div class="block-title">Selfie Camera</div>
+            <p></p>
+            <p></p>
+            <p></p>
+            <div class="block-title">Sound</div>
+            <p></p>
+            <p></p>
+            <div class="block-title">Comms</div>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <div class="block-title">Features</div>
+            <p></p>
+            <div class="block-title">Battery</div>
+            <p></p>
+            <div class="block-title">Misc</div>
+            <p></p>
+            <p></p>
+            <p></p>
+            <video src="assets/Mac2020.mp4" style="width: 360px" controls></video>
+              <p>
+                <a class="button button-fill button-round button-large card-close">Close</a>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="card card-expandable">
+          <div class="card-content">
+            <div style="background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfXcVcZuI_PgMOFoTxvYUUGNDFCVjdponrKfMBXRKf_QDJfNSXoQKVY2lyqASEBmY8-Zm8VsDwAjmQHZlVYcSawTUosel-FUgs52BODHYh7AUid2C_bLc4C83yeUrB5n4OPWiztghdlIp8Nbe96H8byCEEBUKN0RG1efu7vjq71h6tVbOovbt7PcSh1Dw/s320/Macbook%20m1.png) no-repeat center bottom; background-size: cover; height: 240px">
+            </div>
+            <a class="link card-close card-opened-fade-in color-white" style="position: absolute; right: 15px; top: 15px">
+              <i class="icon f7-icons">xmark_circle_fill</i>
+            </a>
+            <div class="card-header display-block" style="height: 60px">
+              Macbook M1
+            </div>
+            <div class="card-content-padding">
+              <div class="block-title">Network</div>
+            <p></p>
+            <div class="block-title">Launch</div>
+            <p></p>
+            <p></p>
+            <div class="block-title">Body</div>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <div class="block-title">Display</div>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <div class="block-title">Platform</div>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <div class="block-title">Memory</div>
+            <p></p>
+            <p></p>
+            <div class="block-title">Main Camera</div>
+            <p></p>
+            <p></p>
+            <p></p>
+            <div class="block-title">Selfie Camera</div>
+            <p></p>
+            <p></p>
+            <p></p>
+            <div class="block-title">Sound</div>
+            <p></p>
+            <p></p>
+            <div class="block-title">Comms</div>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <div class="block-title">Features</div>
+            <p></p>
+            <div class="block-title">Battery</div>
+            <p></p>
+            <div class="block-title">Misc</div>
+            <p></p>
+            <p></p>
+            <p></p>
+            <video src="assets/MacM1.mp4" style="width: 360px" controls></video>
+              <p>
+                <a class="button button-fill button-round button-large card-close">Close</a>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="card card-expandable">
+          <div class="card-content">
+            <div style="background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0q8Zw6qoRrLFIXJ9K1Un9-HtAWhkYJJ5zyizJq_Pp5oxYVwdyQ6OilxZYssqotGvlMnDGtvdwy1pLKPabBB2LOFgVfFeY5OpNROSYg6EOx-YrIO8y3ISqLozXMFBzvmjKr-WYpYrtIZuAcL9Fb9IIDRiiq0CVGs4bCq9DMTA041-no55-F4Lc2mdDjeY/s320/Macbook%20m2.png) no-repeat center bottom; background-size: cover; height: 240px">
+            </div>
+            <a class="link card-close card-opened-fade-in color-white" style="position: absolute; right: 15px; top: 15px">
+              <i class="icon f7-icons">xmark_circle_fill</i>
+            </a>
+            <div class="card-header display-block" style="height: 60px">
+              Macbook M2
+            </div>
+            <div class="card-content-padding">
+              <div class="block-title">Network</div>
+            <p></p>
+            <div class="block-title">Launch</div>
+            <p></p>
+            <p></p>
+            <div class="block-title">Body</div>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <div class="block-title">Display</div>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <div class="block-title">Platform</div>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <div class="block-title">Memory</div>
+            <p></p>
+            <p></p>
+            <div class="block-title">Main Camera</div>
+            <p></p>
+            <p></p>
+            <p></p>
+            <div class="block-title">Selfie Camera</div>
+            <p></p>
+            <p></p>
+            <p></p>
+            <div class="block-title">Sound</div>
+            <p></p>
+            <p></p>
+            <div class="block-title">Comms</div>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <div class="block-title">Features</div>
+            <p></p>
+            <div class="block-title">Battery</div>
+            <p></p>
+            <div class="block-title">Misc</div>
+            <p></p>
+            <p></p>
+            <p></p>
+            <video src="assets/MacM2.mp4" style="width: 360px" controls></video>
+              <p>
+                <a class="button button-fill button-round button-large card-close">Close</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+    </template>
+    <script>
+    export default () => {
+      return $render;
+    };
+    </script>
